@@ -1,0 +1,8 @@
+com\ats\poc\match\MatchingService.class
+com\ats\poc\match\MatchController.class
+com\ats\poc\PdfTextExtractor.class
+com\ats\poc\EmbeddingService.class
+com\ats\poc\UploadController.class
+com\ats\poc\DocumentService.class
+com\ats\poc\AtsPocApplication.class
+com\ats\poc\FileStorageService.class
